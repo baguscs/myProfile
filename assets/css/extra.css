@@ -1,0 +1,69 @@
+.page-header-image {
+  background-image: url("../images/bg.jpg");
+}
+.icon-cv {
+  margin-right: 5px;
+}
+.btn-fb {
+  background-color: #3b5998;
+}
+.btn-tweet {
+  background-color: #1da1f2;
+}
+.btn-ig {
+  background: #f09433;
+  background: -moz-linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  background: -webkit-linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  background: linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+}
+.btn-linked {
+  background-color: #007bb5;
+}
+.btn-git {
+  background-color: #333333;
+}
+.cc-education-header {
+  padding-top: 70px;
+}
+.text-desc-card {
+  margin-top: 70px;
+}
+.text-desc-ref {
+  margin-top: 30px;
+}
+.footer {
+  background-color: #125c13;
+  color: #ffff;
+}
+.icon-media {
+  margin-left: 500px;
+}
+.fa-facebook-f:before,
+.fa-facebook:before,
+.fa-twitter:before,
+.fa-github:before,
+.fa-instagram:before {
+  color: #ffff;
+}
